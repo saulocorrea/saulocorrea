@@ -2,8 +2,6 @@
 
 - 👀 I’m interested in web development, specially with .NET Core C# as back-end and Angular for front-end.
 
-- 🌱 I’m currently learning Angular SPA.
-
 - 📫 How to reach me sauloejrv@gmail.com.
 
 <!---
