@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saulocorrea.
 
-- 👀 I’m interested in web development, specially with .NET Core C# as back-end and Angular for front-end.
+- 👀 I’m a web developer, cloud computing, .NET Core C#, and Angular.
 
 - 📫 How to reach me
   - Email [sauloejrv@gmail.com](sauloejrv@gmail.com)
