@@ -4,7 +4,7 @@
 
 - 📫 How to reach me
   - Email [sauloejrv@gmail.com](sauloejrv@gmail.com)
-  - LinkedIn [linkedin.com/in/saulo-marcos-correa-621898143](https://www.linkedin.com/in/saulo-marcos-correa-621898143)
+  - [LinkedIn](https://www.linkedin.com/in/saulomarcoscor)
 
 - 📜 cv
   - [CV](https://github.com/saulocorrea/saulocorrea/blob/main/cv/Resume%20Saulo%20Marcos%20Corr%C3%AAa.pdf)
