@@ -7,8 +7,7 @@
   - LinkedIn [linkedin.com/in/saulo-marcos-correa-621898143](https://www.linkedin.com/in/saulo-marcos-correa-621898143)
 
 - 📜 cv
-  - [CV Portuguese](https://github.com/user-attachments/files/16665443/SauloMarcosCorrea_Curriculo-2024.pdf)
-  - [CV English](https://github.com/user-attachments/files/16665441/SauloMarcosCorrea_2024-English.pdf)
+  - [CV](https://github.com/saulocorrea/saulocorrea/blob/main/cv/Resume%20Saulo%20Marcos%20Corr%C3%AAa.pdf)
 
 <!---
 saulocorrea/saulocorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
